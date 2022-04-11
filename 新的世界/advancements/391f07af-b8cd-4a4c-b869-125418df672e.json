@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2022-04-10 16:17:55 +0800"
-    },
-    "done": true
-  },
   "create:wrench": {
     "criteria": {
       "0": "2022-04-10 16:13:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-04-10 16:17:55 +0800"
     },
     "done": true
   },
