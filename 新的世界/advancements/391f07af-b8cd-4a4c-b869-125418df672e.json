@@ -1,0 +1,57 @@
+{
+  "create:goggles": {
+    "criteria": {
+      "0": "2022-04-10 16:14:17 +0800"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2022-04-10 16:15:17 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2022-04-10 16:14:03 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_drill": {
+    "criteria": {
+      "0": "2022-04-10 16:19:46 +0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-04-10 16:13:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-04-10 16:17:55 +0800"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-04-10 16:13:19 +0800"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2022-04-10 16:12:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2022-04-10 16:12:30 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
